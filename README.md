@@ -1,6 +1,6 @@
 thumbleBlog
 ===========
 
-functions to make a simple Blog system with PHP ( read,update,delete )
+Simple non-object-oriented MVC Blog system with so simple templating system! :D
 
 aliab @ july/2012
